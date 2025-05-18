@@ -19,6 +19,6 @@ sections:
         label: Learn more
         url: /
         size: medium
-        variant: outlined
+        variant: contained
         color: primary
 ---
