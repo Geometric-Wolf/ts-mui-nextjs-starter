@@ -20,7 +20,7 @@
                 "type": "Link",
                 "label": "Events",
                 "url": "/events",
-                "underline": "always",
+                "underline": "hover",
                 "color": "primary"
             }
         ]
